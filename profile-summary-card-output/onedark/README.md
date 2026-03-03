@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/shin4488/shin4488/master/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    
